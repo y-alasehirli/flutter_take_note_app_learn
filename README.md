@@ -1,4 +1,4 @@
-# takenote_app
+# take_note_app
 
 A new Flutter project.
 
